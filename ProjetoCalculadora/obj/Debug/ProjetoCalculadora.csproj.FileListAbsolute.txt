@@ -1,0 +1,60 @@
+C:\Users\Gabriel\Desktop\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe.config
+C:\Users\Gabriel\Desktop\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe
+C:\Users\Gabriel\Desktop\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.pdb
+C:\Users\Gabriel\Desktop\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Form1.resources
+C:\Users\Gabriel\Desktop\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Desktop\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.exe
+C:\Users\Gabriel\Desktop\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Estudos\Escolar\Ensino Médio\2º Ano\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe.config
+C:\Users\Gabriel\Desktop\Gabriel\Estudos\Escolar\Ensino Médio\2º Ano\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.exe
+C:\Users\Gabriel\Desktop\Gabriel\Estudos\Escolar\Ensino Médio\2º Ano\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Estudos\Escolar\Ensino Médio\2º Ano\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe
+C:\Users\Gabriel\Desktop\Gabriel\Estudos\Escolar\Ensino Médio\2º Ano\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Estudos\Escolar\Ensino Médio\2º Ano\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Gabriel\Estudos\Escolar\Ensino Médio\2º Ano\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Form1.resources
+C:\Users\Gabriel\Desktop\Gabriel\Estudos\Escolar\Ensino Médio\2º Ano\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Gabriel\Estudos\Escolar\Ensino Médio\2º Ano\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.GenerateResource.Cache
+I:\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe.config
+I:\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.exe
+I:\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.pdb
+E:\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe.config
+E:\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.exe
+E:\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.pdb
+E:\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe
+E:\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.pdb
+E:\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csprojResolveAssemblyReference.cache
+E:\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Form1.resources
+E:\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Properties.Resources.resources
+E:\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.GenerateResource.Cache
+C:\Users\seeduc\Desktop\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe.config
+C:\Users\seeduc\Desktop\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.exe
+C:\Users\seeduc\Desktop\Projeto Calculadora\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.pdb
+C:\Users\seeduc\Desktop\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe.config
+C:\Users\seeduc\Desktop\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.exe
+C:\Users\seeduc\Desktop\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.pdb
+C:\Users\seeduc\Desktop\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe
+C:\Users\seeduc\Desktop\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.pdb
+C:\Users\seeduc\Desktop\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\seeduc\Desktop\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Form1.resources
+C:\Users\seeduc\Desktop\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Properties.Resources.resources
+C:\Users\seeduc\Desktop\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.GenerateResource.Cache
+I:\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe.config
+I:\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe
+I:\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.pdb
+I:\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csprojResolveAssemblyReference.cache
+I:\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Form1.resources
+I:\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Properties.Resources.resources
+I:\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.GenerateResource.Cache
+I:\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.exe
+I:\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Estudos\Escolar\Ensino Médio\2º Ano\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe.config
+C:\Users\Gabriel\Desktop\Gabriel\Estudos\Escolar\Ensino Médio\2º Ano\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.exe
+C:\Users\Gabriel\Desktop\Gabriel\Estudos\Escolar\Ensino Médio\2º Ano\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Estudos\Escolar\Ensino Médio\2º Ano\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.exe
+C:\Users\Gabriel\Desktop\Gabriel\Estudos\Escolar\Ensino Médio\2º Ano\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\bin\Debug\ProjetoCalculadora.pdb
+C:\Users\Gabriel\Desktop\Gabriel\Estudos\Escolar\Ensino Médio\2º Ano\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Gabriel\Estudos\Escolar\Ensino Médio\2º Ano\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Form1.resources
+C:\Users\Gabriel\Desktop\Gabriel\Estudos\Escolar\Ensino Médio\2º Ano\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Gabriel\Estudos\Escolar\Ensino Médio\2º Ano\Projeto Calculadora_2003_ErickTinoco_GabrielSouza\ProjetoCalculadora\ProjetoCalculadora\obj\Debug\ProjetoCalculadora.csproj.GenerateResource.Cache
